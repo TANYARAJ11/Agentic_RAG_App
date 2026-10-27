@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+openai
+faiss-cpu
+pydantic
+pypdf
+python-dotenv
+beautifulsoup4
+requests
+streamlit
+wikipedia
+langchain-experimental 
+langchain-huggingface 
+sentence-transformers         
+langhain-ollama                                                       
